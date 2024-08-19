@@ -1,0 +1,393 @@
+[
+    {
+      "ProductName": "Wireless Mouse",
+      "ProductImage": "https://i.ibb.co/KWv7tCW/images.jpg",
+      "Description": "Ergonomic wireless mouse with adjustable DPI settings.",
+      "Price": 29.99,
+      "BrandName": "Techie",
+      "Category": "Electronics",
+      "Ratings": 4.5,
+      "ProductCreationDate": "2024-08-11T10:00:00Z"
+    },
+    {
+      "ProductName": "Bluetooth Headphones",
+      "ProductImage": "https://i.ibb.co/QYBdrZ9/images-1.jpg",
+      "Description": "Noise-cancelling over-ear Bluetooth headphones with 20-hour battery life.",
+      "Price": 89.99,
+      "BrandName": "SoundWave",
+      "Category": "Electronics",
+      "Ratings": 4.7,
+      "ProductCreationDate": "2024-08-12T10:05:00Z"
+    },
+    {
+      "ProductName": "Gaming Keyboard",
+      "ProductImage": "https://i.ibb.co/b1rnpX2/pngtree-the-lage-2740730.png",
+      "Description": "Mechanical RGB gaming keyboard with customizable keys.",
+      "Price": 79.99,
+      "BrandName": "SoundWave",
+      "Category": "Electronics",
+      "Ratings": 4.7,
+      "ProductCreationDate": "2024-08-13T10:10:00Z"
+    },
+    {
+      "ProductName": "Smartphone Gimbal",
+      "ProductImage": "https://i.ibb.co/8c0Rhg0/zhiyun-smooth-q4-gimbal-stabilizer.jpg",
+      "Description": "3-axis smartphone gimbal for smooth video recording.",
+      "Price": 99.99,
+      "BrandName": "Techie",
+      "Category": "Electronics",
+      "Ratings": 4.7,
+      "ProductCreationDate": "2024-08-10T10:15:00Z"
+    },
+    {
+      "ProductName": "4K Ultra HD TV",
+      "ProductImage": "https://i.ibb.co/xmbSR4s/images-2.jpg",
+      "Description": "65-inch 4K Ultra HD Smart TV with HDR support.",
+      "Price": 799.99,
+      "BrandName": "VisionMax",
+      "Category": "Electronics",
+      "Ratings": 4.8,
+      "ProductCreationDate": "2024-07-15T10:20:00Z"
+    },
+    {
+      "ProductName": "Smartwatch",
+      "ProductImage": "https://i.ibb.co/3Wv7Cnd/61-GRy-zy-B-L-AC-UF1000-1000-QL80.jpg",
+      "Description": "Water-resistant smartwatch with heart rate monitor and GPS.",
+      "Price": 199.99,
+      "BrandName": "FitLife",
+      "Category": "Wearables",
+      "Ratings": 4.6,
+      "ProductCreationDate": "2024-07-11T10:25:00Z"
+    },
+    {
+      "ProductName": "Fitness Tracker",
+      "ProductImage": "https://i.ibb.co/48D52Gf/images-3.jpg",
+      "Description": "Lightweight fitness tracker with sleep monitoring.",
+      "Price": 49.99,
+      "BrandName": "FitLife",
+      "Category": "Wearables",
+      "Ratings": 4.3,
+      "ProductCreationDate": "2024-08-15T10:30:00Z"
+    },
+    {
+      "ProductName": "Running Shoes",
+      "ProductImage": "https://i.ibb.co/0hxxBqL/images-4.jpg",
+      "Description": "Lightweight running shoes with breathable mesh fabric.",
+      "Price": 59.99,
+      "BrandName": "FitLife",
+      "Category": "Footwear",
+      "Ratings": 4.3,
+      "ProductCreationDate": "2024-08-12T10:35:00Z"
+    },
+    {
+      "ProductName": "Hiking Boots",
+      "ProductImage": "https://i.ibb.co/yXKPj4V/71-AL0qi-Lm-KL-AC-SL1500.jpg",
+      "Description": "Durable hiking boots with waterproof lining.",
+      "Price": 129.99,
+      "BrandName": "VisionMax",
+      "Category": "Footwear",
+      "Ratings": 4.6,
+      "ProductCreationDate": "2024-07-10T10:40:00Z"
+    },
+    {
+      "ProductName": "Casual Sneakers",
+      "ProductImage": "https://i.ibb.co/Kq6rdvX/images-5.jpg",
+      "Description": "Stylish casual sneakers with cushioned insoles.",
+      "Price": 49.99,
+      "BrandName": "FitLife",
+      "Category": "Footwear",
+      "Ratings": 4.4,
+      "ProductCreationDate": "2024-08-15T11:45:00Z"
+    },
+    {
+      "ProductName": "Laptop Backpack",
+      "ProductImage": "https://i.ibb.co/GcK7mqs/images-6.jpg",
+      "Description": "Waterproof laptop backpack with USB charging port.",
+      "Price": 49.99,
+      "BrandName": "UrbanGear",
+      "Category": "Accessories",
+      "Ratings": 4.4,
+      "ProductCreationDate": "2024-08-15T10:50:00Z"
+    },
+    {
+      "ProductName": "Travel Duffel Bag",
+      "ProductImage": "https://i.ibb.co/mTHPFD2/images-7.jpg",
+      "Description": "Spacious travel duffel bag with multiple compartments.",
+      "Price": 69.99,
+      "BrandName": "UrbanGear",
+      "Category": "Accessories",
+      "Ratings": 4.5,
+      "ProductCreationDate": "2024-08-12T10:55:00Z"
+    },
+    {
+      "ProductName": "Leather Wallet",
+      "ProductImage": "https://i.ibb.co/c8R721Q/images-8.jpg",
+      "Description": "Premium leather wallet with RFID blocking.",
+      "Price": 29.99,
+      "BrandName": "UrbanGear",
+      "Category": "Accessories",
+      "Ratings": 4.6,
+      "ProductCreationDate": "2024-08-11T11:00:00Z"
+    },
+    {
+      "ProductName": "Sunglasses",
+      "ProductImage": "https://i.ibb.co/qF3hb5b/images-9.jpg",
+      "Description": "Polarized sunglasses with UV protection.",
+      "Price": 39.99,
+      "BrandName": "UrbanGear",
+      "Category": "Accessories",
+      "Ratings": 4.4,
+      "ProductCreationDate": "2024-08-10T11:05:00Z"
+    },
+    {
+      "ProductName": "Portable Power Bank",
+      "ProductImage": "https://i.ibb.co/SyZLsHX/images-10.jpg",
+      "Description": "10,000mAh portable power bank with fast charging support.",
+      "Price": 24.99,
+      "BrandName": "Techie",
+      "Category": "Electronics",
+      "Ratings": 4.5,
+      "ProductCreationDate": "2024-08-15T11:10:00Z"
+    },
+    {
+      "ProductName": "Electric Toothbrush",
+      "ProductImage": "https://i.ibb.co/Kq87jLk/images-11.jpg",
+      "Description": "Rechargeable electric toothbrush with multiple brushing modes.",
+      "Price": 39.99,
+      "BrandName": "Techie",
+      "Category": "Electronics",
+      "Ratings": 4.6,
+      "ProductCreationDate": "2024-08-14T11:15:00Z"
+    },
+    {
+      "ProductName": "Smart Home Assistant",
+      "ProductImage": "https://i.ibb.co/PFgVS59/images-12.jpg",
+      "Description": "Voice-controlled smart home assistant with built-in speaker.",
+      "Price": 129.99,
+      "BrandName": "Techie",
+      "Category": "Electronics",
+      "Ratings": 4.6,
+      "ProductCreationDate": "2024-07-13T11:20:00Z"
+    },
+    {
+      "ProductName": "Coffee Maker",
+      "ProductImage": "https://i.ibb.co/0fm1yBm/images-13.jpg",
+      "Description": "12-cup programmable coffee maker with auto shut-off.",
+      "Price": 49.99,
+      "BrandName": "Techie",
+      "Category": "Electronics",
+      "Ratings": 4.4,
+      "ProductCreationDate": "2024-08-12T11:25:00Z"
+    },
+    {
+      "ProductName": "Bluetooth Speaker",
+      "ProductImage": "https://i.ibb.co/BK1pShs/images-14.jpg",
+      "Description": "Portable Bluetooth speaker with deep bass and 10-hour battery life.",
+      "Price": 59.99,
+      "BrandName": "SoundWave",
+      "Category": "Electronics",
+      "Ratings": 4.6,
+      "ProductCreationDate": "2024-08-14T11:30:00Z"
+    },
+    {
+      "ProductName": "Noise-Cancelling Headphones",
+      "ProductImage": "https://i.ibb.co/4jg9yg0/images-15.jpg",
+      "Description": "Over-ear noise-cancelling headphones with 30-hour battery life.",
+      "Price": 129.99,
+      "BrandName": "SoundWave",
+      "Category": "Electronics",
+      "Ratings": 4.7,
+      "ProductCreationDate": "2024-08-15T11:35:00Z"
+    },
+    {
+      "ProductName": "Leather Belt",
+      "ProductImage": "https://i.ibb.co/r4MVSTh/images-16.jpg",
+      "Description": "Adjustable leather belt with metal buckle.",
+      "Price": 19.99,
+      "BrandName": "UrbanGear",
+      "Category": "Accessories",
+      "Ratings": 4.3,
+      "ProductCreationDate": "2024-08-12T11:40:00Z"
+    },
+    {
+      "ProductName": "Gym Bag",
+      "ProductImage": "https://i.ibb.co/JtZg3n2/images-17.jpg",
+      "Description": "Compact gym bag with ventilated shoe compartment.",
+      "Price": 39.99,
+      "BrandName": "UrbanGear",
+      "Category": "Accessories",
+      "Ratings": 4.5,
+      "ProductCreationDate": "2024-08-15T11:45:00Z"
+    },
+    {
+      "ProductName": "Yoga Mat",
+      "ProductImage": "https://i.ibb.co/h75Bkdd/81-Ks1unc9-GL-AC-SL1500.jpg",
+      "Description": "Eco-friendly yoga mat with non-slip surface.",
+      "Price": 29.99,
+      "BrandName": "FitLife",
+      "Category": "Wearables",
+      "Ratings": 4.6,
+      "ProductCreationDate": "2024-08-15T11:50:00Z"
+    },
+    {
+      "ProductName": "Portable Power Bank",
+      "ProductImage": "https://i.ibb.co/4Pfc2vv/images-18.jpg",
+      "Description": "Easily accessible and easy to carry ",
+      "Price": 24.99,
+      "BrandName": "FitLife",
+      "Category": "Wearables",
+      "Ratings": 4.3,
+      "ProductCreationDate": "2024-08-15T11:55:00Z"
+    },
+    {
+      "ProductName": "Basketball Shoes",
+      "ProductImage": "https://i.ibb.co/mBVFngK/images-19.jpg",
+      "Description": "Waterproof hiking jacket with adjustable hood.",
+      "Price": 89.99,
+      "BrandName": "SpeedFlex",
+      "Category": "Footwear",
+      "Ratings": 4.7,
+      "ProductCreationDate": "2024-08-11T12:00:00Z"
+    },
+    {
+      "ProductName": "Winter Boots",
+      "ProductImage": "https://i.ibb.co/F4P45VD/images-20.jpg",
+      "Description": "Insulated winter boots with anti-slip sole.",
+      "Price": 119.99,
+      "BrandName": "SpeedFlex",
+      "Category": "Footwear",
+      "Ratings": 4.5,
+      "ProductCreationDate": "2024-08-14T12:05:00Z"
+    },
+    {
+      "ProductName": "Wireless Earbuds",
+      "ProductImage": "https://i.ibb.co/Qc8j4pP/udeler-t12-in-bd.jpg",
+      "Description": "True wireless earbuds with noise isolation and touch controls.",
+      "Price": 59.99,
+      "BrandName": "SoundWave",
+      "Category": "Electronics",
+      "Ratings": 4.5,
+      "ProductCreationDate": "2024-08-13T12:10:00Z"
+    },
+    {
+      "ProductName": "Bluetooth Headphones",
+      "ProductImage": "https://i.ibb.co/6gVb9ts/images-21.jpg",
+      "Description": "On-ear Bluetooth headphones with long-lasting battery.",
+      "Price": 79.99,
+      "BrandName": "SoundWave",
+      "Category": "Electronics",
+      "Ratings": 4.4,
+      "ProductCreationDate": "2024-08-13T12:15:00Z"
+    },
+    {
+      "ProductName": "Digital Watch",
+      "ProductImage": "https://i.ibb.co/ZKXLf7C/images-22.jpg",
+      "Description": "Stylish digital watch with multiple features and alarms.",
+      "Price": 69.99,
+      "BrandName": "FitLife",
+      "Category": "Wearables",
+      "Ratings": 4.4,
+      "ProductCreationDate": "2024-08-15T12:20:00Z"
+    },
+    {
+      "ProductName": "Smart Scale",
+      "ProductImage": "https://i.ibb.co/2sJ9PTS/images-23.jpg",
+      "Description": "Smart scale with body composition tracking.",
+      "Price": 49.99,
+      "BrandName": "FitLife",
+      "Category": "Wearables",
+      "Ratings": 4.5,
+      "ProductCreationDate": "2024-08-12T12:25:00Z"
+    },
+    {
+      "ProductName": "Portable Speaker",
+      "ProductImage": "https://i.ibb.co/WkHKb3Q/images-24.jpg",
+      "Description": "Compact portable speaker with enhanced bass.",
+      "Price": 39.99,
+      "BrandName": "SoundWave",
+      "Category": "Electronics",
+      "Ratings": 4.3,
+      "ProductCreationDate": "2024-08-15T12:30:00Z"
+    },
+    {
+      "ProductName": "Fitness Band",
+      "ProductImage": "https://i.ibb.co/KLSq90C/images-25.jpg",
+      "Description": "Fitness band with heart rate monitoring and sleep tracking.",
+      "Price": 39.99,
+      "BrandName": "FitLife",
+      "Category": "Wearables",
+      "Ratings": 4.2,
+      "ProductCreationDate": "2024-08-15T12:35:00Z"
+    },
+    {
+      "ProductName": "Running Tights",
+      "ProductImage": "https://i.ibb.co/8g2WV5d/images-26.jpg",
+      "Description": "Compression running tights with sweat-wicking technology.",
+      "Price": 34.99,
+      "BrandName": "FitLife",
+      "Category": "Wearables",
+      "Ratings": 4.6,
+      "ProductCreationDate": "2024-06-15T12:40:00Z"
+    },
+    {
+      "ProductName": "Basketball Shoes",
+      "ProductImage": "https://i.ibb.co/hdD1KBr/images-27.jpg",
+      "Description": "High-top basketball shoes with superior ankle support.",
+      "Price": 99.99,
+      "BrandName": "SpeedFlex",
+      "Category": "Footwear",
+      "Ratings": 4.7,
+      "ProductCreationDate": "2024-07-12T12:45:00Z"
+    },
+    {
+      "ProductName": "Trail Running Shoes",
+      "ProductImage": "https://i.ibb.co/FH5VzTG/images-28.jpg",
+      "Description": "Trail running shoes with enhanced grip and cushioning.",
+      "Price": 79.99,
+      "BrandName": "SpeedFlex",
+      "Category": "Footwear",
+      "Ratings": 4.6,
+      "ProductCreationDate": "2024-08-11T12:50:00Z"
+    },
+    {
+      "ProductName": "Leather Briefcase",
+      "ProductImage": "https://i.ibb.co/CKNpZx2/images-29.jpg",
+      "Description": "Classic leather briefcase with multiple compartments.",
+      "Price": 199.99,
+      "BrandName": "UrbanGear",
+      "Category": "Accessories",
+      "Ratings": 4.7,
+      "ProductCreationDate": "2024-08-15T12:55:00Z"
+    },
+    {
+      "ProductName": "Smart Glasses",
+      "ProductImage": "https://i.ibb.co/xqN3zp9/Cat-Eye-Glasses-Nav-Card-33136813.jpg",
+      "Description": "Smart glasses with built-in camera and Bluetooth.",
+      "Price": 249.99,
+      "BrandName": "Techie",
+      "Category": "Electronics",
+      "Ratings": 4.5,
+      "ProductCreationDate": "2024-08-11T13:00:00Z"
+    },
+    {
+      "ProductName": "Leather Wallet",
+      "ProductImage": "https://i.ibb.co/zbR7Qby/81-WIcy-HQ7o-L-AC-UY1100.jpg",
+      "Description": "Classic leather wallet with multiple card slots.",
+      "Price": 49.99,
+      "BrandName": "UrbanGear",
+      "Category": "Accessories",
+      "Ratings": 4.3,
+      "ProductCreationDate": "2024-08-12T13:05:00Z"
+    },
+    {
+      "ProductName": "Leather Wallet",
+      "ProductImage": "https://i.ibb.co/3FqWDT1/images-30.jpg",
+      "Description": "Classic leather wallet with multiple card slots.",
+      "Price": 29.99,
+      "BrandName": "UrbanGear",
+      "Category": "Accessories",
+      "Ratings": 4.6,
+      "ProductCreationDate": "2024-08-13T13:10:00Z"
+    }
+  ]
+  
